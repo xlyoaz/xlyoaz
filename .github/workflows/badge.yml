@@ -16,7 +16,7 @@ jobs:
       - name: Add YOLO Badge to README
         run: |
           echo '## YOLO Badge' >> README.md
-          echo '![YOLO Badge](https://github.com/xlyoaz/xlyoaz/raw/main/path/to/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f796f6c6f2d64656661756c742e706e67.png)' >> README.md
+          echo '![YOLO Badge](https://github.com/xlyoaz/xlyoaz/yolo.png)' >> README.md
       - name: Commit Changes
         run: |
           git config --global user.name 'github-actions[bot]'
