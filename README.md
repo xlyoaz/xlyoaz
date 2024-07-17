@@ -1,6 +1,6 @@
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&repositories=6&stars=6&commits=6&issues=6&pullRequests=6)](https://github.com/yourusername/github-profile-trophy)
 
 ## 🚀 Skills
 
